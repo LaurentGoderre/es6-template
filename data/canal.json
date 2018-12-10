@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "year": 2011,
+      "daysOpen": 21,
+      "visitors": 4863907
+    },
+    {
+      "year": 2012,
+      "daysOpen": 30,
+      "visitors": 57596746
+    },
+    {
+      "year": 2013,
+      "daysOpen": 16,
+      "visitors": 7549875
+    },
+    {
+      "year": 2014,
+      "daysOpen": 19,
+      "visitors": 637637
+    },
+    {
+      "year": 2015,
+      "daysOpen": 37,
+      "visitors": 6783767
+    },
+    {
+      "year": 2016,
+      "daysOpen": 25,
+      "visitors": 783687
+    },
+    {
+      "year": 2017,
+      "daysOpen": 14,
+      "visitors": 75640
+    },
+    {
+      "year": 2018,
+      "daysOpen": 10,
+      "visitors": 358967
+    }
+  ]
+}
