@@ -3,7 +3,6 @@ module.exports = {
   "presets": [
     ["@babel/env", {
       "useBuiltIns": "usage",
-      "debug": true
     }],
   ],
   "env": {
@@ -11,8 +10,7 @@ module.exports = {
       "presets": [
         ["@babel/env", {
           "targets": {"node": 8},
-          "useBuiltIns": "usage",
-          "debug": true
+          "useBuiltIns": "usage"
         }],
       ],
     }
