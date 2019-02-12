@@ -1,6 +1,6 @@
 import baseSettings from "./settings.js";
 
-const rootI18nRoot = "dist/i18n/";
+const rootI18nRoot = "i18n/";
 const chart = d3.select(".data")
     .append("svg")
     .attr("id", "demo");
